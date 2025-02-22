@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Dr. Carles Foguet"
 title_separator          : "-"
-name                     : &name "Dr. Carles Foguet Coll"
+name                     : &name "Dr. Carles Foguet"
 description              : &description "personal description"
 url                      : https://cfoguet.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile_Carles_Foguet.png"
   name             : "Carles Foguet"
   pronouns         : "he/him"# example: "she/her"  
-  bio              : "Computacional Biologist"
+  bio              : "Research Associate"
   location         : "United Kingdom"
   employer         : "University of Cambridge"
   uri              : # URL
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-8494-9595"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=carles+foguet"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=carles+foguet%5BAuthor%5D&sort=date&sort_order=desc"
   researchgate     : # URL
   scopus           : # URL
 
@@ -67,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "cfoguet" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username

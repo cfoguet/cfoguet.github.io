@@ -11,27 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Biotechnology, Universitat de Barcelona (Spain), 2019 
+* Biohealth Computing Erasmus Mundus Master,Université Joseph Fourier (France), 2014
+* Bachelor’s degree in Biochemistry, Universitat de Barcelona (Spain), 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Part-time fellow, Spanish Cancer Association (“Asociación Española Contra el Cáncer”), 2011-2012
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Ph.D. fellow (scholarship from ‘La Caixa’ Foundation), Universitat de Barcelona (Spain), 2014-2018 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Research Associate in the project ‘PT17/0009/00018 ISCIII- Platform of Bioinformatics of Carlos III Health Institute, metabolomics node’. Universitat de Barcelona (Spain), 2019-2020
+
+* Research Associate in the project “Countering the metabolic reprogramming associated with metastasis and resistance to treatment to prevent therapeutic failure in prostate and colon cancer”. Universitat de Barcelona (Spain), 2020-2021
+
+* Research Associate working in modelling, analysing and interpretation of genomic and multi-omic data. BHF Cardiovascular Epidemiology Unit. Department of Public Health and Primary Care. University of Cambridge (United Kingdom), 2021-
+
+Publications
+======
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% comment %}
+this is commented out
 Skills
 ======
 * Skill 1
@@ -62,3 +65,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+{% endcomment %}  
