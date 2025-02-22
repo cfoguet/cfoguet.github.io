@@ -70,7 +70,7 @@ Talks
 
 Publications
 ======
-<div class="wordwrap">You can find my articles on the <a href="https://cfoguet.github.io/publications/" target="_blank">Publications sections</a> and on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<div class="wordwrap">You can find my articles on the <a href="https://cfoguet.github.io/publications/" target="_blank">Publications section</a> and on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
 {% comment %}
 this is commented out
